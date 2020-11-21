@@ -30,7 +30,6 @@ protobuf==3.9.0
 pycparser==2.20
 Pygments==2.7.1
 pyparsing==2.4.7
-pyrsistent==0.17.3
 pywin32==228
 pywinpty==0.5.7
 pyzmq==19.0.2
