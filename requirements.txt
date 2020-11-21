@@ -1,8 +1,54 @@
 asgiref==3.2.10
+<<<<<<< HEAD
+=======
+async-generator==1.10
+cffi==1.14.3
+click==7.1.2
+>>>>>>> a41e7f4a85bb6bc444665758e300394cf1ff6e93
 Django==3.1.1
 django-cors-headers==3.5.0
 django-filter==2.4.0
 djangorestframework==3.11.1
+<<<<<<< HEAD
 gunicorn==20.0.4
 pytz==2020.4
 sqlparse==0.4.1
+=======
+entrypoints==0.3
+gunicorn==20.0.4
+importlib-metadata==2.0.0
+jsonschema==3.2.0
+Markdown==3.1.1
+MarkupSafe==1.1.1
+mistune==0.8.4
+mysql-connector-python==8.0.22
+nbclient==0.5.0
+nbconvert==6.0.6
+nbformat==5.0.7
+nest-asyncio==1.4.0
+notebook==6.1.4
+packaging==20.4
+pandocfilters==1.4.2
+parso==0.7.1
+pickleshare==0.7.5
+Pillow==7.2.0
+prometheus-client==0.8.0
+prompt-toolkit==3.0.7
+protobuf==3.9.0
+qtconsole==4.7.7
+QtPy==1.9.0
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.1
+termcolor==1.1.0
+terminado==0.9.1
+testpath==0.4.4
+tornado==6.0.4
+traitlets==4.3.3
+wcwidth==0.2.5
+webencodings==0.5.1
+Werkzeug==0.15.5
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==3.2.0
+>>>>>>> a41e7f4a85bb6bc444665758e300394cf1ff6e93
