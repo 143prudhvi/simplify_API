@@ -1,6 +1,4 @@
 asgiref==3.2.10
-automium==0.2.6
-autonium-web==0.1.1
 async-generator==1.10
 cffi==1.14.3
 click==7.1.2
