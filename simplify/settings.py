@@ -26,7 +26,7 @@ SECRET_KEY = '0_5-7o@^ijk^l-09-^wu=&jnmgv1tuo%erh!+_iq7(w4871bm0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['simplify-serve.herokuapp.com','localhost']
 
 
 # Application definition
